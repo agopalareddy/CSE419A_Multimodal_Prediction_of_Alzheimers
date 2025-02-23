@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a multimodal approach for predicting Alzheimer's Disease using machine learning and deep learning techniques. It was developed as part of Washington University in St. Louis's CSE 419A: Introduction to AI in Healthcare course. The project utilizes the OASIS-1 dataset to analyze various biomarkers and imaging data for early detection and prediction of Alzheimer's Disease.
+This project implements a multimodal approach for predicting Alzheimer's Disease using machine learning and deep learning techniques. It was developed as part of Washington University in St. Louis's CSE 419A: Introduction to AI for Health course. The project utilizes the OASIS-1 dataset to analyze imaging and clinical data for early detection and prediction of Alzheimer's Disease.
 
 ## Features
 
@@ -92,7 +92,3 @@ Full dependencies are listed in `requirements.txt`
 - Developed for CSE 419A at Washington University in St. Louis
 - OASIS-1 Dataset contributors
 - Course instructors and teaching assistants
-
-## Author
-
-Aadarsha Gopala Reddy
