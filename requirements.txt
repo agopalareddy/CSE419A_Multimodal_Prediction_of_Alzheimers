@@ -1,0 +1,14 @@
+imageio @ file:///C:/b/abs_aeqerw_nps/croot/imageio_1707247365204/work
+matplotlib==3.9.2
+matplotlib-inline @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/matplotlib-inline_1699484796387/work
+numpy==2.0.2
+numpydoc @ file:///C:/b/abs_bbspp5l8vu/croot/numpydoc_1718279185573/work
+pandas @ file:///C:/b/abs_9aotnvvz16/croot/pandas_1718308978393/work/dist/pandas-2.2.2-cp312-cp312-win_amd64.whl#sha256=93959056e02e9855025011adb18394296a58d49e72b9342733b7693a5267c790
+scikit-learn @ file:///C:/b/abs_aajc9f7v6r/croot/scikit-learn_1722067652693/work/dist/scikit_learn-1.5.1-cp312-cp312-win_amd64.whl#sha256=96ed6defb86c154d2ff360afdbf0c37c33c4c729d4a15c9d8ada0b70fd817816
+seaborn @ file:///C:/b/abs_ca2mi1rgmn/croot/seaborn_1718303534355/work
+shap==0.46.0
+tensorflow==2.18.0
+tensorflow_intel==2.18.0
+tinynumpy==1.2.1
+torch==2.5.1
+xgboost==2.1.3

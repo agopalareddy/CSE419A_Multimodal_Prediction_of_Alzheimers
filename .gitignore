@@ -1,0 +1,40 @@
+# IDE and System Files
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+*.ini
+
+# Python
+__pycache__/
+venv/
+.venv/
+env/
+.ipynb_checkpoints/
+
+# Build and Temporary Files
+*.class
+*.tmp
+*.bak
+*.swp
+*.o
+
+# LaTeX Files
+*.tex
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.bbl
+*.blg
+*.sty
+*.toc
+*.lot
+*.lof
+*.fls
+*.fdb_latexmk
+*.bib
+texput.log
+
+# Directories
+Peer Review/
