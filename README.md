@@ -9,7 +9,6 @@ This project implements a multimodal approach for predicting Alzheimer's Disease
 - Multimodal data integration from OASIS-1 dataset
 - Deep learning models for image analysis
 - Machine learning models for clinical data analysis
-- Feature importance analysis using SHAP values
 - Comprehensive performance evaluation metrics
 - Visual analysis of model predictions
 - Combined classifier leveraging both imaging and clinical data
@@ -34,7 +33,6 @@ This project implements a multimodal approach for predicting Alzheimer's Disease
 - PyTorch
 - Scikit-learn
 - XGBoost
-- SHAP (SHapley Additive exPlanations)
 - Pandas & NumPy
 - Matplotlib & Seaborn
 - Jupyter Notebooks
@@ -71,7 +69,6 @@ Key dependencies include:
 - pandas
 - matplotlib (3.9.2)
 - seaborn
-- shap (0.46.0)
 
 Full dependencies are listed in `requirements.txt`
 
