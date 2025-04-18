@@ -10,5 +10,5 @@ shap==0.46.0
 tensorflow==2.18.0
 tensorflow_intel==2.18.0
 tinynumpy==1.2.1
-torch==2.5.1
+torch==2.6.0
 xgboost==2.1.3
